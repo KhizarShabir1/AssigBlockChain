@@ -1,5 +1,4 @@
-# Assigment2IBC
-#.........................(BlockChain)..................
+# Assigment2/3IBC(BlockChain)
 We have X+1 different nodes. The first being satoshi, the creator of genesis block and the seed for all other nodes. All other nodes connect to Satoshi first. We can organize the tasks to be done from the perspective of Satoshi and the Others as Shown below:
 
 1. Satoshi:
